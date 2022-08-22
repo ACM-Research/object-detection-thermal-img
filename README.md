@@ -1,0 +1,1 @@
+# object-detection-thermal-img
