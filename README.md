@@ -1,4 +1,4 @@
-# Object Detection Modelling with Thermal Imaging
+# Object Detection Modeling with Thermal Imaging
 
 Thermal imaging involves extracting visual data in instances where real-life imaging and night-life vision are limited. 
 
