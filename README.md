@@ -13,6 +13,9 @@ FLIR, a company that makes cameras for infrared and thermal imaging, has recentl
 ![image](https://user-images.githubusercontent.com/52009380/185963890-c3a4d56a-fd2e-4121-9d19-d6875f0b54f1.png)
 
 FLIR have released a dataset from this camera which can be accessed on the website here: https://www.flir.com/oem/adas/adas-dataset-form/
+
+
 Using this dataset and models, new and old, that exist in the Computer Vision and Modelling, we will aim to implement object detection with these datasets in order to develop techniques and models to help self-driving and intelligent cars.
+
 
 The timeline for what we will do for our project is housed here along with important resources and links: https://abhiamishra.github.io/timeline-acm-research/
