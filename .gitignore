@@ -1,3 +1,7 @@
+/Users/cesargamez/Documents/GitHub/object-detection-thermal-img/yolov7/train/images
+/Users/cesargamez/Documents/GitHub/object-detection-thermal-img/yolov7/test/images
+/Users/cesargamez/Documents/GitHub/object-detection-thermal-img/yolov7/val/images
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
